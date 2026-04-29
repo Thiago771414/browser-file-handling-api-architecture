@@ -129,7 +129,9 @@ Upload optimization pipelines
 
 [![Watch the Web File API video](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/apiWebFile.png)](https://youtu.be/oD97HRID5As)
 
-*Clique na imagem acima para assistir à demonstração.*
+*Click on the image above to watch the demonstration.*
+
+---
 
 ## Performance Considerations
 ```text
